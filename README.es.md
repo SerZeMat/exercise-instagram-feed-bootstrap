@@ -52,7 +52,7 @@ Tienes la lección en línea y la hoja de trucos de bootstrap en la sección de 
 
 ### ¿Que hacer si estás atascado?
 
-- Limpia el caché (siempre actualiza con command+shift+R), utilizando el modo incógnito en Google Chrome. 
+- Limpia la caché (siempre actualiza con command+shift+R), utilizando el modo incógnito en Google Chrome. 
 - Busca soluciones en Google. 
 - Habla con otros estudiantes. 
 - Habla con desarrolladores senior que conozcas. 
